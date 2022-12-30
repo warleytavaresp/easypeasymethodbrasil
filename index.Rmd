@@ -1,9 +1,9 @@
 ---
-title: "EasyPeasy (pt-br)"
+title: "Método Fácil"
 author: "Equipe de tradução do EasyPeasy"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-description: "O método EasyPeasy para abandonar a pornografia."
+description: "O Método Fácil para abandonar a pornografia."
 documentclass: book
 classoption: openany
 lang: es

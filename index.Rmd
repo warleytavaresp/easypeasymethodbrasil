@@ -1,15 +1,15 @@
 ---
-title: "EasyPeasy (ESPAÑOL)"
-author: "Equipo de traducción de EasyPeasy"
+title: "EasyPeasy (pt-br)"
+author: "Equipe de tradução do EasyPeasy"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-description: "El método EasyPeasy para dejar la pornografía."
+description: "O método EasyPeasy para abandonar a pornografia."
 documentclass: book
 classoption: openany
 lang: es
-url: "https://easypeasyespanol.github.io/"
-cover-image: "img-cover.png"
-pdf-cover-image: "img-cover.png"
+url: "https://warleytavaresp.github.io/easypeasymethodbrasil"
+cover-image: "img-cover.jpg"
+pdf-cover-image: "img-cover.jpg"
 mainfont: Arial
 header-includes:
   - \usepackage{setspace}
@@ -25,195 +25,179 @@ header-includes:
   - \pagenumbering{gobble}
 ---
 
-# Introducción {#introduccion}
+# Introdução {#introducao}
 
-![Imagen de portada](img-cover.png){width=45% height=45%}\
+![Imagen de portada](img-cover.jpg){width=45% height=45%}\
 
-El método EasyPeasy para dejar la pornografía. Deja el porno de manera rápida, indolora, sin usar el método de fuerza de voluntad y sin sentirte privado.
+<span style="font-size:xx-large;">NÃO PULE CAPÍTULOS</span>
 
-https://easypeasyespanol.github.io/
+Esse livro de código aberto lhe permitirá parar de usar pornografia imediatamente, sem dor, e permanentemente. Sem força de vontade ou qualquer sensação de estar sendo privado ou estar fazendo um sacrifício. Ele não lhe julgará, envergonhará, nem irá te pressionar a tomar medidas dolorosas.
 
-<span style = "font-size: x-large;">**[PDF](https://easypeasyespanol.github.io/easypeasyespanol.pdf) | [EPUB](https://easypeasyespanol.github.io/easypeasyespanol.epub) | [AUDIOLIBRO](https://www.youtube.com/playlist?list=PLvRgPTmD1BRK2Hrh4B_lxqoDNdrMhI4MD)**</span>
+Na verdade, não há necessidade de cortar ou reduzir seu uso durante a leitura; fazer isso é prejudicial, na verdade.
 
-**Acerca de los traductores:**
+Pode ser que você esteja apreensivo quanto ao pensamento de parar em si ou uma das [milhões](https://old.reddit.com/r/nofap) [de tentativas](https://rebootnation.org/) [deliberadas](https://old.reddit.com/r/pornfree) de [parar](https://yourbrainrebalanced.com/). Caso esteja, talvez o que já leu vá contra tudo que você escutou, mas se pergunte se o que você escutou funcionou? Se tivesse funcionado, você não estaria lendo esse livro.
 
-* Traducción al español por **NegroBienDespierto**
-    * Su página: https://www.facebook.com/NegroBienDespierto/
-* Conversión a bookdown por **porog**
-    * Su página: https://www.youtube.com/channel/UCw0bSPMyQ3bL_8Ejf_DLFQg
-* Imagen de portada por **Allan Gomes**
-    * Su página: https://github.com/agomesp
-* Audiolibro por **Franco Galeano**
-    * Su página: https://www.youtube.com/channel/UCjIBnGOcMX2C6BqLETB9iAQ
+Talvez você se identifica com as seguintes questões:
 
----
+- Você passa mais tempo do que o planejado assistindo pornô?
 
-**Notas de los traductores**
+- Você não obtêm sucesso nas tentativas de parar ou de limitar seu consumo de pornografia?
 
-Puede que algunas frases y palabras parezcan algo raras al lector español. Preferimos ser fieles al estilo directo y coloquial de Allen Carr, ya que es importante comunicar sus ideas fielmente y su lenguaje se ha probado con eficacia. Con EasyPeasy tendrás la oportunidad de aclarar cualquier duda o temor que puedas tener en el asunto de la pornografía.
+- O tempo vendo pornografia já interferiu ou teve prioridade sobre compromissos pessoais ou profissionais, hobbies, ou relacionamentos na sua vida?
 
----
+- Você se esforça para manter o seu consumo de pornografia escondido (e.g. deletar o histórico do navegador, mentir sobre o consumo)?
 
-<span style = "font-size: x-large;">_**¡NO TE SALTES NINGÚN CAPÍTULO!**_</span>
+- Ver pornografia já causou algum problema significativo nos seus relacionamentos íntimos?
 
-¡Hola! Soy Dom, del equipo de traducción de EasyPeasy. Esta traducción se hizo tomando como base la versión lanzada por _Hackauthors²_ el 16 de septiembre de 2021. Esta nueva versión incluye notas personales referentes a los proyectos del autor, así como la idea de reescribir la versión en inglés de EasyPeasy. Dado que estas notas no competen a la traducción, te pedimos por favor, darle una visita al [sitio original](https://easypeasymethod.org/) si deseas checar estas notas, así como para leer la versión original de este libro si gustas.
+- Você experimenta ciclos de excitação e prazer antes e durante o consumo da pornografia, seguido de sentimentos de vergonha, culpa e remorso depois do uso?
 
-Sin más que agregar, un abrazo hasta donde estés. Esperamos te sea de ayuda este libro.
+- Você passa um tempo significativo pensando sobre pornô, até mesmo quando não está assistindo?
 
-<span style = "font-size: x-large;">_**¡NO TE SALTES NINGÚN CAPÍTULO!**_</span>
+- A pornografia já te trouxe alguma outra consequência negativa na sua vida pessoal ou profissional (e.g. faltar trabalho, performance baixa, relacionamentos negligenciados, problemas financeiros)?
 
-Este libro gratis y de código abierto te permitirá dejar de usar pornografía **inmediatamente, sin dolor y permanentemente**; sin usar fuerza de voluntad y sin aplicar ningún sentido de privación o sacrificio. No te pondrá a juicio, no te hará sentir vergüenza ni te pondrá presión para someterte a ninguna medida dolorosa.
+Se você é um usuário da pornografia que depende dela para a masturbação ou sexo *sempre* e *por qualquer razão*, tudo que você precisa fazer é continuar lendo. Se você está aqui por alguém que ama, tudo que você precisa fazer é convencê-lo(a) a ler o livro. Se você for incapaz de persuadi-lo(a), leia o livro você mesmo(a). Entender o método ajuda a espalhar a mensagem e prevenir que seus filhos comecem a usar. Não se engane com o fato de que eles não têm acesso agora — todos acessamos antes de ficarmos viciados. 
 
-De hecho, no hay ninguna necesidad de reducir o suspender tu consumo de pornografía mientras se lee; hacerlo es en realidad perjudicial.
+## Sobre o Livro {-}
 
-Quizá estés preocupado por el hecho de solo pensarlo, o preocupado por pensar en los millones de personas que están tratando de dejar el porno. Si es así, entonces quizá sea porque todo lo has leído acerca de pornografía vaya en contra de todo lo que se te ha dicho sobre ella, pero, antes que nada, pregúntate: ¿todo lo que te han dicho ha funcionado? Porque, de haber sido así, no estarías leyendo esto entonces. 
+Esse livro é um versão reescrita de uma [adaptação](https://web.archive.org/web/20201014165025/https://sites.google.com/site/hackbookeasypeasy/) do livro *O Método Fácil de Parar de Fumar*, de *Allen Carr*, para pornografia. O livro é grátis e de código aberto, sob licença CC-BY-SA. O sucesso do livro está sobre o fundamento de que você:
 
-Considera si las siguientes preguntas se aplican en tu caso:
+<span style="font-size:xx-large;">NÃO PULE CAPÍTULOS</span>
 
-* ¿Pasas mucho más tiempo viendo pornografía del que tenías planeado inicialmente?
-* ¿Siempre fallas en tus intentos por detener o limitar tu consumo de pornografía?
-* ¿El tiempo que pasas viendo pornografía ha interferido o tomado prioridad sobre tu vida personal o profesional? ¿Sobre tus compromisos, pasatiempos o sobre las relaciones en tu vida?
-* ¿Haces todo lo posible para mantener tu consumo de pornografía en secreto? (Ejem: Eliminar el historial, entrar en modo incógnito, mentir acerca de tu consumo, etc.)
-* ¿Ver pornografía ha causado problemas significativos en tus relaciones íntimas?
-* ¿Experimentas un ciclo de excitación y disfrute antes y durante tu consumo de pornografía, seguidos de un sentimiento de vergüenza, culpa y remordimiento?
-* ¿Pasas una cantidad significativa de tiempo pensando en pornografía, incluso cuando no la estás consumiendo?
-* ¿Ver pornografía ha causado otras consecuencias negativas en tu vida personal y profesional? (Ejem: Llegar tarde al trabajo, tener un desempeño deficiente, tener relaciones desatendidas, problemas financieros, etc.)
+Quando se está abrindo uma fechadura de código, você deve colocar os números na oredm certa. Com os vícios, não é nada diferente.
 
-Si eres un usuario de pornografía que depende de ella para masturbarse o tener sexo, lo único que tienes que hacer es **seguir leyendo**. Si estás aquí por un ser amado, lo único que tienes que hacer es persuadirlo para que lea este libro. Pero de no poder persuadirlo, entonces lee el libro tú mismo. Entender el método te ayudará a poder llevar el mensaje a otras personas, evitando que incluso tus hijos empiecen. No te dejes engañar por el hecho de que no tienen acceso al porno ahora — **todos lo hacemos antes de engancharnos**.
+Pessoalmente, a [versão original do Google Sites] (https://web.archive.org/web/20201014165025/https://sites.google.com/site/hackbookeasypeasy/) (que não foi escrita por mim) mudou minha vida. Se você é como a maioria das pessoas, descobriu a pornografia quando era relativamente novo e tem usado dela desde então. Até tropeçar na esmagadora — e de alguma forma, censurada — 
+literatura avisando dos perigos. Assim como eu, você provavelmente consegue sequências de variadas quantidades de tempo, mas sempre acaba eventualmente sucumbindo a impulsos ilusórios. Tenho o prazer de relatar que esse método funciona de uma maneira totalmente diferente e tem sido o único método que tem funcionado.
 
-## Acerca del libro {-}
+Ou talvez você chegou a esse livro por orientação de alguém preocupado contigo e você está cético. Primeiramente, obrigado por pelo menos olhar pro livro. Em breve o método será desenvolvido, mas, por favor, brevemente relembre a primeira vez que viu pornografia. Você esperava que fosse retornar a ela pelo resto da sua vida? De acordo com meus próprios estudos informais sobre esse tópico (importunar amigos para lerem esse livro), o Método Fácil é igualmente efetivo tanto para usuários casuais de pornô quanto para usuários altamente viciados. O livro não é terrivelmente longo, tem altas chances de grandes ganhos, então, imploro que continuem lendo.
 
-Este libro es una versión reescrita de una adaptación reescrita del libro _"Es fácil dejar de fumar si sabes cómo"_ de _Allen Carr_ para dejar de usar pornografía, es completamente **gratis y de código abierto**, además de estar licenciado bajo Creative Commons (CC-BY-SA). El éxito de este método se basa en el fundamento de que:
+O método descrito nesse hackbook é:
 
-<span style = "font-size: x-large;">_**¡NO TE SALTES NINGÚN CAPÍTULO!**_</span>
+- Instantâneo.
+- Igualmente efetivo para usuários casuais e altamente viciados.
+- Não causa dor de abstinência.
+- Não precisa de força de vontade.
+- Não precisa de tratamento de choque, recursos auxiliares ou truques.
+- Não vai necessitar que você substitua esse vício por outros vícios, como comer muito, fumar ou beber.
+- Permanente.
 
-Cuando estás abriendo un candado, tienes que poner los números en el orden correcto. La adicción no es nada diferente. 
+Você pode achar isso impossível de acreditar, mas esse sentimento ecoa por muitas pessoas.
 
-Personalmente, la versión original de [_Google Sites_](https://sites.google.com/site/sites/system/errors/WebspaceNotFound?path=%2Fhackbookeasypeasy) (La que no fue escrita por mí) cambió mi vida. Si eres como la mayoría de la gente, descubriste la pornografía a una edad temprana y la seguiste usando desde entonces. Eso, hasta encontrarte con la abrumadora — y aun así censurada — literatura que advierte los peligros de esta. Así como yo, quizá hayas sobrevivido algunas largas rachas de días sin usarla, solo para terminar sucumbiendo a ilusorios impulsos. Así pues, tengo el gusto de comentarte que este método funciona completamente diferente, y es el único que funciona.
+> *“Este é o trabalho seminal sobre o vício em pornografia”*
+>
+> --- Um cara no reddit que não consigo encontrar, acho que o trocadilho foi intencional.
 
-O quizá hayas llegado a este libro por un compañero que está preocupado por ti, y eres escéptico. Antes que nada, gracias por darle un ojo, aunque sea. Desarrollaré el funcionamiento de este método brevemente, pero primero, quiero que recuerdes la primera vez que viste pornografía. ¿Pensaste que regresarías a ese lugar durante el resto de tu vida? Según mis propios estudios informales sobre el tema (o sea, molestando a mis amigos para que lean este libro), EasyPeasy es igual de efectivo para los usuarios casuales como para los más adictos al porno. No es demasiado largo, con grandes posibilidades de grandes ganancias, así que te suplico, sigue leyendo. 
+> *“Fiquei viciado por 10 anos. Naqueles 10 anos, estive debilitado pela depressão, dúvida, ansiedade e medo que meu segredo fosse descoberto. Depois de cada sessão, eu me odiava, e depois de cada dieta pornográfica eu estava de volta ao tobogã imediatamente. No entanto, este livro me ajudou a parar. Eu sempre estive na defensiva contra o pornô no passado. Agora, depois de ler este livro duas vezes, estou na ofensiva. A pornografia não tem controle sobre mim e parece uma piada de mal gosto agora.”*
+>
+> --- u/DeepNewt
 
-El método descrito en este _hackbook_ es:
+> *"Há alguns dias, fiz 20 anos. Pela primeira vez em muito tempo, passei meu aniversário livre da armadilha da pornografia e é tudo graças a este livro em que esbarrei por acaso há apenas alguns meses. Antes disso, eu havia passado tanto tempo tentando parar por meios tradicionais, experimentei tantos tumultos internos e me rotulei permanentemente como um viciado. O livro resolveu tudo isso para mim. Onde eu anteriormente temia não ter controle sobre mim, mesmo quando eu, sem saber, já tinha vencido o pequeno monstro, agora posso ter orgulho em perceber que não preciso mais ser um viciado.
 
-* Instantáneo. 
-* Igual de efectivo con usuarios casuales y profundamente adictos.
-* No causa ningún _dolor de abstinencia_.
-* No requiere de fuerza de voluntad.
-* No requiere de ningún truco, ayuda o _tratamiento de shock_.
-* No te hará reemplazar esta adicción con otra, como fumar, beber alcohol o comer de más.
-* Permanente.
+Eu não tenho uma razão pra postar isso, eu simplesmente senti que devia colocar isso pra fora em algum lugar sem ser dentro da minha própria cabeça, porque isso significa tanto pra mim. Se você estiver lendo isso e estiver pensando em ler ou recomendar o livro, vai comigo que ele funciona melhor que qualquer método por aí. Minha maior dica é que você faça anotações, o que soa engraçado, mas realmente me ajudou a solidificar certas ideias.*
+>
+> --- u/Suspicious_Web_4594
 
-Quizá encuentres esto imposible de creer, pero es un sentimiento que hace eco para muchas personas:
+> *“based”*
+>
+> --- anon, /fit/
 
-* > "Este es el trabajo fundamental respecto a la adicción a la pornografía"  
-> \- Un tipo en Reddit que no puedo encontrar, no creo que la broma fuera intencional.
+## Atenção
 
-* > "Fui adicto a la pornografía por 10 años. Esos 10 años estuve paralizado por la depresión, las dudas y la ansiedad de que mi secreto saliera a la luz. Después de cada sesión, me odiaba a mí mismo, y después de cada dieta pornográfica estaba de vuelta en el tobogán en poco tiempo. Sin embargo, este libro me ayudó a parar. Siempre estuve a la defensiva del porno en el pasado. Ahora, y después de leer este libro por segunda vez, estoy a la ofensiva. El porno no tiene control sobre mí y se siente como una broma de mal gusto ahora"  
-> \- u/DeepNewt
+Se você está esperando que este livro “assuste” você até abandonar, usando os vários riscos de problemas de saúde de usuários, como disfunção sexual (incluindo disfunção erétil induzida por pornografia), excitação não-confiável, perda de interesse em parceiros sexuais reais, hipofrontalidade cerebral e a acusação cega de que é um hábito imundo, nojento e que você é um estúpido, covarde, uma ameba sem força de vontade, você ficará dolorosamente desapontado. Essas táticas nunca me ajudaram a abandonar e se fossem ajudar você, você já teria desistido.
 
-* > "Hace unos días, cumplí 20 años. Por primera vez en mucho tiempo, pasé mi cumpleaños libre de la trampa del porno, y es gracias a este libro que me encontré por ahí hace meses. Antes de eso, pasaba mucho tiempo tratando de dejar el porno a través de métodos tradicionales, y experimenté mucha confusión interna y me catalogué por siempre como un adicto. Este libro resolvió todo eso por mí. Donde anteriormente temía el no tener control sobre mí mismo, incluso cuando, sin saberlo, ya había vencido al pequeño monstruo, ahora puedo sentirme orgulloso al darme cuenta de que no necesito ser un adicto nunca más.  
-> En realidad, no tengo ninguna razón para publicar esto. Solo sentía que debía poner esto en algún otro lado que no fuera mi cabeza, porque significa mucho para mí. Si estás leyendo esto y piensas en leer el libro o recomendarlo, créeme que funciona mejor que cualquier otro método allá afuera. El mejor tip que te puedo dar es que tomes notas; sé que suena gracioso, pero me ayudó a solidificar algunas ideas."  
-> \- u/Suspicious_Web_4594
+Métodos convencionais para abandonar o vício defendem o uso de força de vontade ou método de substituição do pornô, como dietas de "uma vez a cada *n* dias" ou diminuir o consumo. Alguns *sites* listam pesquisas revistas por pares sobre neurotransmissores e neuroplasticidade e embora esses *sites* sejam informativos, muitas pessoas, cientes dos riscos à saude, escolhem não fazer nada, apesar desse tipo de material ser tipicamente evitado. Em última análise, eles são igualmente ineficientes já que, de fato, não removem as razões para usar pornô. Em última análise, transformar algo num fruto proibido não é como você trata vícios.
 
-* > "basado"  
-> \- anon, /fit/
+Esse método, denominado Método Fácil, funciona de maneira diferente. Algumas das coisas que serão ditas podem ser difíceis de acreditar, mas quando você terminar este livro, você não apenas acreditará, mas também se perguntará como pôde ter sofrido uma lavagem cerebral para acreditar de outra forma.
 
-## Advertencia
+Existe um equívoco comum de que escolhemos assistir pornografia. Viciados em pornografia (sim, viciados) não escolhem assistir pornografia mais do que os alcoólatras escolhem se tornar alcoólatras, do que os viciados em heroína escolhem se tornar viciados em heroína. É verdade que escolhemos inicializar o laptop ou smartphone, abrir o navegador e visitar nosso "harém online" favorito. Ocasionalmente, escolho ir ao cinema, mas eu certamente não escolhi passar minha vida inteira nas salas de cinema. Originalmente, a curiosidade e a natureza humana me levaram até lá, mas eu não teria começado se soubesse que me tornaria viciado, causando o declínio da minha saúde, felicidade e relacionamentos. “*Se eu tivesse ao menos ouvido falar sobre disfunção sexual na minha primeira visita àquele site pornô!*”
 
-Si esperas que este libro _te asuste_ hasta parar con los diversos riesgos de salud que los usuarios corren, como lo son la _disfunción eréctil_ (incluida la disfunción eréctil inducida por pornografía), la excitación sexual poco confiable, perdida de interés en el sexo real, hipofrontalidad cerebral, y la cegadora acusación de que es un hábito asqueroso y repugnante y que _tú_ eres una estúpida y floja medusa con falta de fuerza y una voluntad débil, estarás muy decepcionado. Esas tácticas nunca me ayudaron a dejar el porno, y si te fueran a ayudar a ti, ya lo habrías hecho.
+Tire um momento para refletir, você alguma vez tomou a decisão "positiva" de que você deve/precisa de pornografia para se masturbar? Ou que você deve/precisa usar fantasias induzidas por pornografia para apimentar o sexo com seu parceiro? Ou que, em certos momentos da sua vida, você não conseguiria ter uma boa noite de sono ou talvez até mesmo passar uma noite depois de um dia duro de trabalho sem navegar nos *sites* de pornografia? Ou que, você não conseguiria se concentrar ou lidar com o estresse sem ela? Em que estágio você decidiu que precisava de pornografia, que precisava dela permanentemente em sua vida, sentindo-se inseguro, até mesmo em pânico, sem pornografia, sem seu harém online?
 
-Los métodos convencionales usados para dejar el porno defienden el uso de **la fuerza de voluntad** o métodos de sustitución como las **dietas pornográficas** (_Volveré a ver porno cada X días_) o reducir el consumo a 0 de tajo. Algunos sitios de internet engloban listas de estudios _revisados por pares_ acerca de _neurotransmisores y neuro plasticidad_, y a pesar de que son sitios informativos, muchos son conscientes de los riesgos de salud y escogen no hacer nada, a pesar de que este material suele evitarse muy a menudo. Estos métodos, en última instancia, son igualmente ineficaces debido al hecho de que no remueven las razones por las que consumimos porno. Y en última instancia, convertir algo en una especie de _fruta prohibida_ no es una forma coherente de combatir una adicción.
+Como qualquer outro usuário de pornografia, você foi atraído para a armadilha mais sinistra e sutil que o homem e a natureza já se uniram para inventar. Não existe uma pessoa viva, seja um usuário ou não, que goste da ideia de seus filhos usarem pornografia para lidar com problemas ou por prazer. Isso significa que todos os viciados queriam nunca ter começado. Isso não é surpreendente: ninguém precisa de pornografia para aproveitar a vida ou lidar com o estresse antes de ficar viciado.
 
-Este método, denominado como _EasyPeasy_, trabaja de otra forma. Algunas de las cosas que se dirán aquí quizá sean difíciles de creer, pero para cuando acabes este libro, no solo terminarás creyéndolas, sino que también te preguntarás cómo habrás sido engañado para creer lo contrario.
+Ao mesmo tempo, todos os usuários querem continuar a usar. Afinal, ninguém nos força a iniciar o modo de navegação anônima do nosso navegador. Quer eles entendam o motivo, quer não, são apenas os usuários que decidem bater às portas de seus haréns online.
 
-Existe la idea errónea de que _elegimos ver pornografía_. Los adictos al porno (Sí, adictos) no escogen conscientemente ver porno, así como los alcohólicos convertirse en alcohólicos, o los adictos a la heroína volverse adictos. Es cierto que nosotros escogemos encender la laptop o el celular, entrar a nuestro navegador y visitar nuestro _"harem en línea"_ de preferencia. Pero trata de verlo así: ocasionalmente, yo escojo ir al cine, pero estoy seguro de que no escogí quedarme dentro del cine toda la vida. Originalmente, la curiosidad y la naturaleza humana me llevaron ahí, pero nunca hubiera empezado de haber sabido que me convertiría en un adicto, causando el declive de mi salud, felicidad y relaciones. _"¡Oh, de haber sabido acerca de la disfunción eréctil en mi primera visita a esa página porno!"_
+Se houvesse um botão mágico que o usuário pudesse pressionar para acordar na manhã seguinte como se nunca tivesse acessado seu primeiro *site* “*tube*”, os únicos viciados amanhã seriam os jovens que ainda estão “experimentando”.
 
-Tómate un momento para reflexionar: ¿Alguna vez tomaste la decisión _"positiva"_ de que necesitas/tienes que usar porno para masturbarte? ¿O de que debes tener fantasías inducidas por el porno para darle un poco de _picor_ al sexo que tendrás con tu pareja? ¿O de que, en ciertos momentos de tu vida, no podías disfrutar de una buena noche de descanso o quizá tener una tarde después de un arduo día de trabajo sin tener que navegar en páginas porno? ¿O de que no podías concentrarte o manejar el estrés sin porno? ¿En qué momento decidiste que _necesitabas_ de la pornografía, de que la _necesitabas_ permanentemente en tu vida, sintiéndote inseguro, incluso asustado sin porno, sin tu _online harem_ favorito?
+A única coisa que nos impede de desistir é o **MEDO!** Medo causado pela crença de que teremos que sobreviver a um período indeterminado de miséria, privação e desejo não saciado para nos livrarmos da pornografia. Eles são gerados por crenças irracionais, tanto aprendidas quanto adquiridas, como:
 
-Como cualquier otro usuario, has sido atraído a la trampa más sutil y siniestra que el hombre y la naturaleza han podido idear. No ha vivido persona alguna, siendo un usuario o no, que le guste la idea de que sus hijos usen pornografía para poder lidiar con su vida o para sentir placer. Esto significa que todos los adictos desearían nunca haber iniciado. No es sorpresa para nadie; nadie necesita del porno para disfrutar de su vida o lidiar con el estrés.
+- Masturbação ou sexo com orgasmo é a *única* e *mais* importante coisa na vida.
 
-Y al mismo tiempo, todos los usuarios desean continuar usándolo. Después de todo, nadie nos obliga a iniciar el modo incógnito en nuestros navegadores. Entiendan la razón del porqué lo hacen o no, son los usuarios los que deciden arrastrarse a las puertas de su _"online harem"_.
+- Pornografia é “mais segura” do que sexo na vida real porque a pornografia não pode me rejeitar.
 
-Si existiera un botón mágico que le diera la oportunidad al usuario de despertar la mañana siguiente como si nunca hubiera tenido esa primera sesión en aquella página porno, los únicos adictos hoy en día serían chicos jóvenes que aún _"están experimentando"_.
+- A pornografia é educativa e útil.
 
-¡La única cosa que nos previene de dejar este vicio es _**EL MIEDO**_! Miedo causado por la creencia de que tendremos que sobrevivir un período de tiempo indefinido de miseria, privación o ansia insatisfecha para librarnos del porno. Estas creencias son engendradas a su vez por otras creencias más irracionales, aprendidas y/o adquiridas:
+- Direito a uma experiência sexual “superior”.
 
-* La masturbación o el sexo que termina en orgasmo son las _únicas y más importantes_ cosas en la vida. 
-* El porno es _"más seguro"_ que el sexo real porque el porno no puede rechazarme.
-* El porno es educativo y útil.
-* Es un derecho a una experiencia sexual _"superior"_. 
-* _Más es mejor_.
+- Mais é sempre melhor.
 
-Estas creencias irracionales resultan en consecuencias irracionales cuando se ponen en práctica, como lo son:
+Essas crenças irracionais geram consequências irracionais quando aplicadas, incluindo:
 
-* Idolatrar u obsesionarse cuando alguien de características _10/10_ es encontrado/a.
-* Percibirte a ti mismo como un perdedor si no tienes sexo, como si fuera la cosa más importante en la experiencia humana.
-* Esperar a que una persona sea _10/10_.
-* Ser excesivamente crítico o juzgar demasiado cuando se trata de parejas sexuales.
-* Forzarte a tener sexo, quieras o no.
+- Adorar e ficar obcecado por um "10/10 perfeito", quando esse é achado.
 
-Es miedo a que una noche a solas será miserable, gastando tus energías luchando contra impulsos incontrolables. Miedo a que una noche antes de tu importantísimo examen va a ser una noche de infierno sin porno. Miedo a que nunca podrás manejar el estrés, concentrarte o tener mucha más confianza en ti mismo sin tu pequeño _"apoyo"_, y que tu personalidad y carácter cambiarán por completo, para siempre.
+- Perceber-se como um perdedor se você não fizer sexo, como se fosse a coisa mais importante na experiência humana.
 
-Pero, sobre todo, miedo a que _"una vez un adicto, siempre un adicto"_: de que nunca podrás ser completamente libre, pasando el resto de tu vida ansiando ese orgasmo ocasional inducido por porno en tiempos difíciles. Si como en mi caso has intentado todas las formas convencionales para abandonarlo, pasando por la miseria y tortura del _"método de la fuerza de voluntad"_, no solo serás afectado por ese miedo, sino también estarás convencido de que nunca podrás abandonar.
+- Esperar por um 10 perfeito.
 
-Si estás preocupado, asustado, o sientes que no es buen momento para dejarlo, permíteme asegurarte que tus preocupaciones o miedos no son aliviados por el porno — son causados por ello. No decidiste caer en la trampa del porno, pero como todas las trampas, está diseñada para asegurarse de que sigas atrapado. Pregúntate: ¿cuándo viste esas primeras imágenes, esos primeros videos, decidiste que volverías a verlas una y otra vez, por el resto de tu vida? ¿Entonces, cuándo pararás? ¿Mañana? ¿El próximo año? ¡Deja de engañarte! La trampa está diseñada para retenerte el resto de tu vida. ¿Por qué crees que todos los demás adictos no paran antes de que acabe con sus vidas?
+- Julgar em excesso e ser excessivamente crítico sobre parceiros em potencial.
 
-Anteriormente mencioné un _"botón mágico"_; _EasyPeasy_ funciona justo como ese botón mágico. Déjame aclararlo, _EasyPeasy_ no es magia, pero para mí, y algunos que han encontrado que es fácil y divertido dejar el porno, ¡les parece que sí lo es!
+- Obrigar-se a fazer sexo, querendo ou não.
 
-Pero la advertencia es la siguiente: Es una situación de _"el huevo o la gallina"_: cada adicto quiere abandonarlo, y cada adicto puede hacerlo de forma fácil y divertida. Es el **miedo** el que nos previene de hacerlo. La ganancia más grande e importante de dejar el porno es deshacerse de ese miedo, pero no serás libre de ese miedo hasta acabar este libro. Por el contrario, tu miedo se hará más grande conforme avances la lectura, lo cual quizá te prevenga de terminar el libro. Toma por ejemplo este comentario:
+É o medo de que uma noite sozinho será miserável e será gasta lutando contra impulsos incontroláveis. Medo de que a noite anterior às provas será uma noite infernal sem pornografia. Medo de que nunca seremos capazes de nos concentrar, lidar com o estresse ou sermos tão confiantes sem nossa pequena muleta e de que nossa personalidade e caráter mudarão.
 
-_**"Acabo de terminar de leer EasyPeasy. Sé que solo han sido 4 días, pero me siento tan bien, sé que no necesitaré de usar pornografía nunca más. Empecé a leer tu libro hace cinco meses, pero tan pronto llegué a la mitad entré en pánico. Sabía que si seguía leyendo tendría que parar. ¿Apoco no fui tonto?"**_
+Mas acima de tudo, medo de que “uma vez viciado, sempre um viciado”: que nunca seremos completamente livres, passando o resto de nossas vidas desejando um ocasional orgasmo induzido por pornografia em momentos difíceis. Se, como eu fiz, você já tentou todas as maneiras convencionais de parar e já passou pela miséria e tortura do "método da força de vontade", você não será apenas afetado por esse medo, mas estará convencido de que nunca conseguirá parar.
 
-No decidiste caer en la trampa, pero ten claro que **no podrás escapar de ella a menos que tomes la firme decisión de hacerlo**. Quizá ya estés tirando de la correa para hacerlo, o quizá estés consternado al respecto. Pero, aun así, ten en cuenta que: _**¡NO TIENES NADA QUE PERDER!**_
+Se você está apreensivo, em pânico ou sente que não é o momento certo para parar, deixe-me garantir que sua apreensão e pânico não são aliviados pela pornografia — são causados por ela. Você não decidiu cair na armadilha da pornografia, mas como todas as armadilhas, ela foi projetada para garantir que você continue preso. Pergunte a si mesmo, quando você viu aquelas primeiras fotos e vídeos pornô, você decidiu voltar para vê-los durante toda a vida? Então, quando você vai parar? Amanhã? Ano que vem? Pare de se enganar! A armadilha foi projetada para prendê-lo por toda a vida. Por que mais você acha que todos esses outros viciados não desistem antes dela “matar” a vidas deles?
 
-Si al final del libro decides continuar usando pornografía para masturbarte o tener sexo, no hay nada que te prevenga de hacerlo.	No tienes que restringir o parar el uso de porno mientras lees de todas formas, y recuerda, no hay un tratamiento de shock. Al contrario, tengo buenas noticias para ti. ¿Te imaginas cómo se sintió Andy Dufresne cuando finalmente escapó de la prisión de Shawshank? Así es como me sentí cuando escapé de la trampa del porno, y así es como se sienten muchos ex-usuarios que han usado EasyPeasy. ¡Para cuando acabes el libro, así es como te sentirás! ¡Así que ve por ello!
+Eu me referi a um botão mágico; o Método Fácil funciona como aquele botão mágico. Deixe-me ser claro, o Método Fácil não é mágico, mas para mim e para outros que acharam tão fácil e agradável parar, parece que sim!
+
+O aviso é o seguinte: Esta é uma situação da galinha e do ovo: todo viciado deseja parar e todo viciado pode achar fácil e agradável parar. É apenas o medo que impede os usuários de tentarem parar. O maior ganho é se livrar desse medo, mas você não ficará livre desse medo até que conclua o livro. Pelo contrário, seu medo pode aumentar à medida que você continua lendo, o que pode impedi-lo de terminá-lo. Olhe este comentário de uma mulher.
+
+**“Acabei de terminar Método Fácil. Eu sei que se passaram apenas quatro dias, mas me sinto tão bem, eu sei que nunca vou precisar usar pornografia novamente. Comecei a ler o seu livro cinco meses atrás, cheguei na metade e entrei em pânico. Eu sabia que se eu continuasse a ler eu teria de parar. Não fui boba?"**
+
+Você não decidiu cair na armadilha, mas esteja claro em sua mente: você não vai escapar dela a menos que tome a decisão afirmativa de escapar. Você pode já estar muito ansioso para parar, ou pode estar apreensivo com o pensamento de parar em si, mas de qualquer forma, por favor, mantenha em mente: **VOCÊ NÃO TEM NADA A PERDER!**
+
+Se no final do livro você decidir que quer continuar a usar pornografia para se masturbar ou fazer sexo, não tem nada que o impeça de fazer isso. Você não precisa nem diminuir o uso ou parar de usar pornografia enquanto lê o livro e, lembre-se, não há terapia de choque. Pelo contrário, só tenho boas notícias para você. Você pode imaginar como Andy Dufresne se sentiu quando finalmente escapou da Penitenciária de Shawshank? Foi assim que me senti quando escapei da armadilha da pornografia, e é assim que os ex-usuários que usaram o Método Fácil se sentem. Ao final do livro, é assim que você vai se senti! Vá em frente!
 
 ## Finalmente... {-}
 
-Todos pueden encontrar divertido y fácil dejar el porno, ¡incluso tú! Todo lo que tienes que hacer es leer el resto del libro con una mente abierta; entre más entiendas, más fácil será. Incluso si no entiendes nada, siempre que sigas las instrucciones, será _pan comido_. Más importante aún, no irás por la vida deprimido porque no tienes porno o sintiéndote privado del mismo, y para cuando acabes el libro, el único misterio será por qué lo hiciste por tanto tiempo.
+Todo mundo pode achar fácil e agradável parar com a pornografia, incluindo você! Tudo que você tem que fazer é continuar lendo o livro com a mente aberta; quanto mais você entender, mais fácil será. Mesmo se você não entender uma palavra, desde que siga as instruções, você achará fácil. Mais importante: você não viverá se lamentando por querer pornografia ou se sentindo privado, e ao final do livro o único mistério será porquê você fez isso por tanto tempo.
 
-Con EasyPeasy, solo hay dos cuestiones por las cuales puedes fallar:
+Com o Método Fácil só há duas razões para o fracasso.
 
-**No llevar a cabo las instrucciones que se te dieron**. Algunos encuentran molesto que el libro sea tan dogmático con ciertas recomendaciones, como no dejar de usar de porno, o de no usar sustitutos. De hecho, no negaré el hecho de que hubo algunos que han logrado parar usando dichas artimañas, pero lo han logrado _a pesar de_, no gracias a dichas. Algunas personas pueden tener sexo en una hamaca, pero no es lo más fácil que digamos. Los números para abrir el candado de esta trampa están en este libro, pero deben de usarse en el orden correcto: _**yendo capítulo por capítulo, sin saltarse ninguno**_.
+**Falhar em seguir as instruções.** Alguns acharão chato que esse livro é tão dogmático com algumas recomendações, como não tentar diminuir o uso ou usar substitutos. Eu, certamente, não nego que há muitos que tiveram sucesso em parar usando essas artimanhas, mas eles tiveram sucesso *apesar delas* e não por causa delas. Algumas pessoas conseguem fazer amor em pé numa rede, mas não é o modo mais fácil. Os números da senha para abrir o cadeado dessa armadilha estão nesse livro, mas é necessário digitar eles na ordem correta: ir de um capítulo em capítulo e sem pular capítulos.
 
-**No entender del todo**. No des nada por sentado. Cuestiónate no solo lo contenido aquí, sino también tus creencias y todo lo que la sociedad te ha dicho acerca del sexo, el porno y las adicciones. Por ejemplo, aquellos que creen que solo es un hábito, pregúntate por qué otros hábitos — los cuales son disfrutables — son fáciles de romper, mientras que un hábito que se siente horrible y cuesta energía, tiempo y virilidad es tan difícil de romper. Para aquellos que creen que disfrutan del porno, pregúntate por qué otras cosas que son infinitamente más disfrutables que el porno pueden ser tomadas o dejadas. ¿Por qué _necesitas_ del porno, además de sentirte asustado si no lo tienes?
+**Falhar em entender.** Não aceite nada como correto, questione não só o que te contam, mas sua própria visão e o que a sociedade te contou sobre sexo, pornô da internet e vício. Por exemplo, quem acredita ser apenas um hábito, pergunte a si mesmo por que outros hábitos — alguns que são até agradáveis — são fáceis de quebrar, enquanto um hábito que traz sensações horríveis, que custa energia, tempo e virilidade é tão difícil de quebrar. Aqueles que acreditam que apreciam a pornografia, perguntem a si mesmos por que outras coisas que são infinitamente mais prazerosas você consegue escolher se usa ou não sem dificuldades. Por que você *tem* que usar pornô, entrando em pânico se não usar?
 
-EasyPeasy te dará todo el conocimiento necesario acerca de lo fácil y disfrutable que es dejar el porno. Como muchos otros, uno de mis más grandes triunfos en la vida fue escapar de esta trampa. No hay necesidad de sentirse deprimido, al contrario, vas a conseguir aquello que todo usuario en el planeta desearía conseguir: **¡LIBERTAD!**
+O Método Fácil te dará o conhecimento de quão fácil e agradável é abandonar a pornografia. Como muitos outros, um dos maiores triunfos na vida tem sido escapar da armadilha da pornografia. Não há necessidade de se sentir deprimido, pelo contrário, você está prestes a realizar algo que todo usuário do planeta adoraria alcançar: **LIBERDADE!**
 
-**PERO RECUERDA, NO TE SALTES NINGÚN CAPÍTULO.**
+**LEMBRE-SE, NÃO PULE CAPÍTULOS.**
 
-Algunos términos antes de empezar:
+Alguns termos antes de começar:
+***PMO***: O ciclo da pornografia, masturbação e orgasmo.
+***Harém virtual***: Sites que possuem pornografia.
 
-_**PMO**_: El ciclo de porno, masturbación y orgasmo.
+## Dicas para leitura e pequenas notas finais
 
-_**Harem, Harem en línea**_: Sitios que albergan pornografía a altas velocidades de internet.
+**Não leia esse livro como um livro normal**, ele é muito curto e você deve ser capaz de terminá-lo em duas horas. A maioria das pessoas se beneficia de *marcar* ou *fazer anotações* e geralmente recomenda **relê-lo** algumas vezes para solidificar totalmente as lições.
 
-_**MFV**_: El Método de la Fuerza de Voluntad
+Por que o *hackbook*? Porque o Allen Carr faleceu há muito tempo e as instituições que ele formou não listam a pornografia da internet como um dos vícios para os quais eles oferecem tratamento. Eu não faço lucro ou algo assim.
 
-## Tips para tu lectura y algunas notas finales
+Ao longo desse livro, eu, o *Hackauthor* original e Allen Carr vamos aparecer transparentemente a fim de te proporcionar um método único e convincente de parar facilmente e sem dor.
 
-**No leas este libro como si fuera un libro normal**, es muy corto, y deberías poder terminarlo en un par de horas. Algunas personas se benefician _enfatizando o tomando notas_, y recomiendan **darle otra leída para reforzar** algunas enseñanzas por completo.
+<span style="font-size:smaller;">**Hackbook:** Um livro baseado e ""hackeado"" de outro livro. O autor original é totalmente creditado. </span>
 
-¿Por qué este libro es un hackbook? Porque Allan Carr falleció hace mucho, y las instituciones que formó no enlistan la pornografía como una de las adicciones que disponen de un tratamiento. No gano ni monetariamente ni de ninguna otra forma.
+Existem várias comunidades para o *hackbook* também, mas recomendo verificá-las somente depois de terminar de ler o livro.
 
-A lo largo de este libro, yo, el Hackauthor original, y Allen Carr haremos apariciones transparentemente, con el fin de proporcionarte un método único y convincente para dejar el porno de forma indolora y fácil.
+[urbit](https://urbit.org) - ~mislyr-midnyt/coomer (agora realmente funciona!! melhor metodo de contato possivel, pf usa esse) | [coomer meme archive](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) (do site original) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [formulário de *feedback*](https://forms.gle/p7cTxowaNpKqgi5Z7)
 
-**Hackbook**: Un libro basado y hackeado de otro libro. El autor original está totalmente acreditado.
+Lembrete rápido: NÃO PULE CAPÍTULOS!
 
-Hay un buen número de comunidades en línea para este hackbook también, pero te recomiendo visitarlas una vez hayas acabado este libro.
+Eu lhe desejaria sorte, mas como você aprenderá em breve, você não precisa dela.
 
-_**(Estas páginas están en inglés)**_
-
-[urbit](https://urbit.org) - ~mislyr-midnyt/coomer (¡ahora funciona bien! Para contactarme, usa este.) | [coomer meme archive](https://coomer.org/) | [analiticas](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/) | [discord](https://discord.com/invite/bCXEnf9) | [Reddit](https://www.reddit.com/r/pmohackbook/) | [Cuestionario de retroalimentación](https://docs.google.com/forms/d/e/1FAIpQLSfi27XGmChe_qtu4fP6E6lNyjY8Ia_93TlfGbjbKgiI1VNdkg/viewform)
-
-Recordatorio rápido: **NO TE SALTES NINGÚN CAPÍTULO.**
-
-Te desearía suerte, pero como pronto te darás cuenta, no la necesitas.
-
-Buenas vibras.
+Boas vibrações,
 
 Hackauthor²
 
-> This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License. Code is GPLv3
+![Creative Commons License Image](img-cc-by-sa.png){width=88 height=31}
 
-![CC BY-SA](img-cc-by-sa.png)\
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Code is [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE).

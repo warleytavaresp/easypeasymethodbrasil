@@ -4,7 +4,7 @@
 FROM ubuntu:latest
 
 # Copy everything (minus anything specified in .dockerignore) into the image
-COPY . /opt/easypeasyespanol.github.io
+COPY . /opt/warleytavaresp.github.io/easypeasymethodbrasil
 
 # To make installs not ask questions about timezones
 ARG DEBIAN_FRONTEND=noninteractive
@@ -103,7 +103,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends apt-utils \
 ########################################################
 # build book
 ########################################################
-  cd /opt/easypeasyespanol.github.io \
+  cd /opt/warleytavaresp.github.io/easypeasymethodbrasil \
     && \
   Rscript -e "install.packages('tinytex')" \
     && \

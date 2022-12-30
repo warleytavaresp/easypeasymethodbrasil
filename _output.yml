@@ -5,10 +5,10 @@ bookdown::gitbook:
         <li><a href ="./">EasyPeasy</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/easypeasyespanol/easypeasyespanol.github.io/blob/main/%s
+    edit: https://github.com/warleytavaresp/easypeasymethodbrasil/blob/main/%s
     download:
-      - ["easypeasyespanol.pdf", "PDF"]
-      - ["easypeasyespanol.epub", "EPUB"]
+      - ["easypeasymethodbrasil.pdf", "PDF"]
+      - ["easypeasymethodbrasil.epub", "EPUB"]
     fontsettings:
       theme: night
 pdf_document:
